@@ -26,7 +26,7 @@ TensorFlow, PyTorch, OpenAI API, ChatGPT, LangChain, LlamaIndex, Hugging Face, R
 Dialogflow, Rasa, Botpress, Stripe, Webhooks, API Integration, ERP, CRM
 </div>
 <div>
-🧰 7. Tools & Methodologies
+🧰 7. Tools & Methodologies -> 
 Git, GitHub, DevOps, Agile, Android, iOS, Cloud Hosting, Performance Monitoring
 </div>
 
