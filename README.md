@@ -18,7 +18,7 @@ Git, GitHub, DevOps, Agile, Android, iOS, Cloud Hosting, Performance Monitoring
 
 ### 🏆 Github Profile Trophy
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=dolfinus&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
