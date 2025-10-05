@@ -1,9 +1,10 @@
 I am Senior Full Stack Developer | AI Integration | Automated Workflow
 
 my skill:
-🧠 1. Core Web Development
+<div>
+  🧠 1. Core Web Development
 HTML5, CSS3, JavaScript, TypeScript, Responsive Design, Web Security, Performance Optimization
-
+</div>
 ⚛️ 2. Front-End Frameworks & UI
 React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, UX/UI Integration, Jest (Testing)
 
